@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\23_KDT_ICN\\C_Prog_Lyo\\second\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E2600D-D6BA-44EA-97D3-1CAAF88770E2}|second.vcxproj|D:\\VS\\23_KDT_ICN\\C_Prog_Lyo\\second\\second.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4E2600D-D6BA-44EA-97D3-1CAAF88770E2}|second.vcxproj|solutionrelative:second.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "second.c",
+              "DocumentMoniker": "D:\\VS\\23_KDT_ICN\\C_Prog_Lyo\\second\\second.c",
+              "RelativeDocumentMoniker": "second.c",
+              "ToolTip": "D:\\VS\\23_KDT_ICN\\C_Prog_Lyo\\second\\second.c",
+              "RelativeToolTip": "second.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-01T06:02:37.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
